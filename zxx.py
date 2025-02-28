@@ -130,6 +130,6 @@ def menu(server_url):
 
 # Run the application
 if __name__ == "__main__":
-    SERVER_URL = "http://kittu.darkeagle.online/"
+    SERVER_URL = "https://single-elbertine-hardikbisht-08ae26.koyeb.app/"
     menu(SERVER_URL)
     
